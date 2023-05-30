@@ -1,0 +1,404 @@
+G:\Prectica III\ComputerMagazine\bin\Release\SqlServerTypes\x64\msvcr120.dll
+G:\Prectica III\ComputerMagazine\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\Prectica III\ComputerMagazine\bin\Release\SqlServerTypes\x86\msvcr120.dll
+G:\Prectica III\ComputerMagazine\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\Prectica III\ComputerMagazine\bin\Release\Computer_magazine.exe.config
+G:\Prectica III\ComputerMagazine\bin\Release\Computer_magazine.exe
+G:\Prectica III\ComputerMagazine\bin\Release\Computer_magazine.pdb
+G:\Prectica III\ComputerMagazine\bin\Release\BouncyCastle.Cryptography.dll
+G:\Prectica III\ComputerMagazine\bin\Release\Microsoft.ReportViewer.Common.dll
+G:\Prectica III\ComputerMagazine\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+G:\Prectica III\ComputerMagazine\bin\Release\Microsoft.ReportViewer.Design.dll
+G:\Prectica III\ComputerMagazine\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\Prectica III\ComputerMagazine\bin\Release\Microsoft.ReportViewer.WinForms.dll
+G:\Prectica III\ComputerMagazine\bin\Release\Microsoft.SqlServer.Types.dll
+G:\Prectica III\ComputerMagazine\bin\Release\MimeKit.dll
+G:\Prectica III\ComputerMagazine\bin\Release\System.Buffers.dll
+G:\Prectica III\ComputerMagazine\bin\Release\System.Memory.dll
+G:\Prectica III\ComputerMagazine\bin\Release\System.Numerics.Vectors.dll
+G:\Prectica III\ComputerMagazine\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+G:\Prectica III\ComputerMagazine\bin\Release\System.Threading.Tasks.Extensions.dll
+G:\Prectica III\ComputerMagazine\bin\Release\EnvDTE.dll
+G:\Prectica III\ComputerMagazine\bin\Release\stdole.dll
+G:\Prectica III\ComputerMagazine\bin\Release\BouncyCastle.Cryptography.xml
+G:\Prectica III\ComputerMagazine\bin\Release\MimeKit.pdb
+G:\Prectica III\ComputerMagazine\bin\Release\MimeKit.xml
+G:\Prectica III\ComputerMagazine\bin\Release\MimeKit.dll.config
+G:\Prectica III\ComputerMagazine\bin\Release\System.Buffers.xml
+G:\Prectica III\ComputerMagazine\bin\Release\System.Memory.xml
+G:\Prectica III\ComputerMagazine\bin\Release\System.Numerics.Vectors.xml
+G:\Prectica III\ComputerMagazine\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+G:\Prectica III\ComputerMagazine\bin\Release\System.Threading.Tasks.Extensions.xml
+G:\Prectica III\ComputerMagazine\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.csproj.AssemblyReference.cache
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.csproj.SuggestedBindingRedirects.cache
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.CheckReportForm.resources
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.ChekEditForm.resources
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.ChekInfoChekEditForm.resources
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.ComputerEditForm.resources
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.ConsignmentEditForm.resources
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.ConsignmentReportForm.resources
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.Form1.resources
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.ManEditForm.resources
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.MonitorEditForm.resources
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.PasportDataEditForm.resources
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.PasswordRestoreFrorm.resources
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.PaymentEditForm.resources
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.PhoneEditForm.resources
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.PrinterEditForm.resources
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.ProductDiagramReportForm.resources
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.ProductEditForm.resources
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.ProductReportForm.resources
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.ProductTypeEditForm.resources
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.Properties.Resources.resources
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.RegistrationForm.resources
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.RolesEditForm.resources
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.StyleForm.resources
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.SupEditForm.resources
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.csproj.GenerateResource.cache
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.csproj.CoreCompileInputs.cache
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.csproj.CopyComplete
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.exe
+G:\Prectica III\ComputerMagazine\obj\Release\Computer_magazine.pdb
+E:\Practica III v3\ComputerMagazine\bin\Release\SqlServerTypes\x64\msvcr120.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\SqlServerTypes\x86\msvcr120.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\Computer_magazine.exe.config
+E:\Practica III v3\ComputerMagazine\bin\Release\Computer_magazine.exe
+E:\Practica III v3\ComputerMagazine\bin\Release\Computer_magazine.pdb
+E:\Practica III v3\ComputerMagazine\bin\Release\BouncyCastle.Cryptography.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\Microsoft.ReportViewer.Common.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\Microsoft.ReportViewer.Design.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\Microsoft.ReportViewer.WinForms.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\Microsoft.SqlServer.Types.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\MimeKit.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\System.Buffers.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\System.Memory.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\System.Numerics.Vectors.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\System.Threading.Tasks.Extensions.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\EnvDTE.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\stdole.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\BouncyCastle.Cryptography.xml
+E:\Practica III v3\ComputerMagazine\bin\Release\MimeKit.pdb
+E:\Practica III v3\ComputerMagazine\bin\Release\MimeKit.xml
+E:\Practica III v3\ComputerMagazine\bin\Release\MimeKit.dll.config
+E:\Practica III v3\ComputerMagazine\bin\Release\System.Buffers.xml
+E:\Practica III v3\ComputerMagazine\bin\Release\System.Memory.xml
+E:\Practica III v3\ComputerMagazine\bin\Release\System.Numerics.Vectors.xml
+E:\Practica III v3\ComputerMagazine\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+E:\Practica III v3\ComputerMagazine\bin\Release\System.Threading.Tasks.Extensions.xml
+E:\Practica III v3\ComputerMagazine\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.csproj.AssemblyReference.cache
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.csproj.SuggestedBindingRedirects.cache
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.CheckReportForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ChekEditForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ChekInfoChekEditForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ComputerEditForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ConsignmentEditForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ConsignmentReportForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.Form1.resources
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ManEditForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.MonitorEditForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.PasportDataEditForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.PasswordRestoreFrorm.resources
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.PaymentEditForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.PhoneEditForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.PrinterEditForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ProductDiagramReportForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ProductEditForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ProductReportForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ProductTypeEditForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.Properties.Resources.resources
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.RegistrationForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.RolesEditForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.StyleForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.SupEditForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.csproj.GenerateResource.cache
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.csproj.CoreCompileInputs.cache
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.csproj.CopyComplete
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.exe
+E:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.pdb
+F:\Practica III v3\ComputerMagazine\bin\Release\SqlServerTypes\x64\msvcr120.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\SqlServerTypes\x86\msvcr120.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\Computer_magazine.exe.config
+F:\Practica III v3\ComputerMagazine\bin\Release\Computer_magazine.exe
+F:\Practica III v3\ComputerMagazine\bin\Release\Computer_magazine.pdb
+F:\Practica III v3\ComputerMagazine\bin\Release\BouncyCastle.Cryptography.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\Microsoft.ReportViewer.Common.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\Microsoft.ReportViewer.Design.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\Microsoft.ReportViewer.WinForms.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\Microsoft.SqlServer.Types.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\MimeKit.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\System.Buffers.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\System.Memory.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\System.Numerics.Vectors.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\System.Threading.Tasks.Extensions.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\EnvDTE.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\stdole.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\BouncyCastle.Cryptography.xml
+F:\Practica III v3\ComputerMagazine\bin\Release\MimeKit.pdb
+F:\Practica III v3\ComputerMagazine\bin\Release\MimeKit.xml
+F:\Practica III v3\ComputerMagazine\bin\Release\MimeKit.dll.config
+F:\Practica III v3\ComputerMagazine\bin\Release\System.Buffers.xml
+F:\Practica III v3\ComputerMagazine\bin\Release\System.Memory.xml
+F:\Practica III v3\ComputerMagazine\bin\Release\System.Numerics.Vectors.xml
+F:\Practica III v3\ComputerMagazine\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+F:\Practica III v3\ComputerMagazine\bin\Release\System.Threading.Tasks.Extensions.xml
+F:\Practica III v3\ComputerMagazine\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Practica III v3\ComputerMagazine\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.csproj.AssemblyReference.cache
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.csproj.SuggestedBindingRedirects.cache
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.CheckReportForm.resources
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ChekEditForm.resources
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ChekInfoChekEditForm.resources
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ComputerEditForm.resources
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ConsignmentEditForm.resources
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ConsignmentReportForm.resources
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.Form1.resources
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ManEditForm.resources
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.MonitorEditForm.resources
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.PasportDataEditForm.resources
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.PasswordRestoreFrorm.resources
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.PaymentEditForm.resources
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.PhoneEditForm.resources
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.PrinterEditForm.resources
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ProductDiagramReportForm.resources
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ProductEditForm.resources
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ProductReportForm.resources
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ProductTypeEditForm.resources
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.Properties.Resources.resources
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.RegistrationForm.resources
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.RolesEditForm.resources
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.StyleForm.resources
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.SupEditForm.resources
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.csproj.GenerateResource.cache
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.csproj.CoreCompileInputs.cache
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.csproj.CopyComplete
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.exe
+F:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.pdb
+H:\Practica III v3\ComputerMagazine\bin\Release\SqlServerTypes\x64\msvcr120.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\SqlServerTypes\x86\msvcr120.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\Computer_magazine.exe.config
+H:\Practica III v3\ComputerMagazine\bin\Release\Computer_magazine.exe
+H:\Practica III v3\ComputerMagazine\bin\Release\Computer_magazine.pdb
+H:\Practica III v3\ComputerMagazine\bin\Release\BouncyCastle.Cryptography.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\Microsoft.ReportViewer.Common.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\Microsoft.ReportViewer.Design.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\Microsoft.ReportViewer.WinForms.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\Microsoft.SqlServer.Types.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\MimeKit.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\System.Buffers.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\System.Memory.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\System.Numerics.Vectors.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\System.Threading.Tasks.Extensions.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\EnvDTE.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\stdole.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\BouncyCastle.Cryptography.xml
+H:\Practica III v3\ComputerMagazine\bin\Release\MimeKit.pdb
+H:\Practica III v3\ComputerMagazine\bin\Release\MimeKit.xml
+H:\Practica III v3\ComputerMagazine\bin\Release\MimeKit.dll.config
+H:\Practica III v3\ComputerMagazine\bin\Release\System.Buffers.xml
+H:\Practica III v3\ComputerMagazine\bin\Release\System.Memory.xml
+H:\Practica III v3\ComputerMagazine\bin\Release\System.Numerics.Vectors.xml
+H:\Practica III v3\ComputerMagazine\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+H:\Practica III v3\ComputerMagazine\bin\Release\System.Threading.Tasks.Extensions.xml
+H:\Practica III v3\ComputerMagazine\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.csproj.AssemblyReference.cache
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.csproj.SuggestedBindingRedirects.cache
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.CheckReportForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ChekEditForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ChekInfoChekEditForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ComputerEditForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ConsignmentEditForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ConsignmentReportForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.Form1.resources
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ManEditForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.MonitorEditForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.PasportDataEditForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.PasswordRestoreFrorm.resources
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.PaymentEditForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.PhoneEditForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.PrinterEditForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ProductDiagramReportForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ProductEditForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ProductReportForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.ProductTypeEditForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.Properties.Resources.resources
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.RegistrationForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.RolesEditForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.StyleForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.SupEditForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.csproj.GenerateResource.cache
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.csproj.CoreCompileInputs.cache
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.csproj.CopyComplete
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.exe
+H:\Practica III v3\ComputerMagazine\obj\Release\Computer_magazine.pdb

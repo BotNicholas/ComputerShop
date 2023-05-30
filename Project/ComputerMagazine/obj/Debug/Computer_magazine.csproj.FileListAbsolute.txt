@@ -1,0 +1,922 @@
+C:\Users\User\VisualStudio\Computer_magazine\obj\Debug\Computer_magazine.csproj.AssemblyReference.cache
+C:\Users\User\VisualStudio\Computer_magazine\obj\Debug\Computer_magazine.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\VisualStudio\Computer_magazine\obj\Debug\Computer_magazine.Form1.resources
+C:\Users\User\VisualStudio\Computer_magazine\obj\Debug\Computer_magazine.Properties.Resources.resources
+C:\Users\User\VisualStudio\Computer_magazine\obj\Debug\Computer_magazine.StyleForm.resources
+C:\Users\User\VisualStudio\Computer_magazine\obj\Debug\Computer_magazine.csproj.GenerateResource.cache
+C:\Users\User\VisualStudio\Computer_magazine\obj\Debug\Computer_magazine.csproj.CoreCompileInputs.cache
+C:\Users\User\VisualStudio\Computer_magazine\bin\Debug\Computer_magazine.exe.config
+C:\Users\User\VisualStudio\Computer_magazine\bin\Debug\Computer_magazine.exe
+C:\Users\User\VisualStudio\Computer_magazine\bin\Debug\Computer_magazine.pdb
+C:\Users\User\VisualStudio\Computer_magazine\obj\Debug\Computer_magazine.exe
+C:\Users\User\VisualStudio\Computer_magazine\obj\Debug\Computer_magazine.pdb
+C:\Users\User\VisualStudio\Computer_magazine\obj\Debug\Computer_magazine.ManEditForm.resources
+C:\Users\User\VisualStudio\Computer_magazine\obj\Debug\Computer_magazine.SupEditForm.resources
+C:\Users\User\VisualStudio\Computer_magazine\obj\Debug\Computer_magazine.ChekEditForm.resources
+C:\Users\User\VisualStudio\Computer_magazine\obj\Debug\Computer_magazine.ChekInfoChekEditForm.resources
+C:\Users\User\VisualStudio\Computer_magazine\obj\Debug\Computer_magazine.ComputerEditForm.resources
+C:\Users\User\VisualStudio\Computer_magazine\obj\Debug\Computer_magazine.ConsignmentEditForm.resources
+C:\Users\User\VisualStudio\Computer_magazine\obj\Debug\Computer_magazine.MonitorEditForm.resources
+C:\Users\User\VisualStudio\Computer_magazine\obj\Debug\Computer_magazine.PaymentEditForm.resources
+C:\Users\User\VisualStudio\Computer_magazine\obj\Debug\Computer_magazine.PhoneEditForm.resources
+C:\Users\User\VisualStudio\Computer_magazine\obj\Debug\Computer_magazine.PrinterEditForm.resources
+C:\Users\User\VisualStudio\Computer_magazine\obj\Debug\Computer_magazine.ProductEditForm.resources
+C:\Users\User\VisualStudio\Computer_magazine\obj\Debug\Computer_magazine.ProductTypeEditForm.resources
+E:\Desktop\Computer_magazine\bin\Debug\Computer_magazine.exe.config
+E:\Desktop\Computer_magazine\bin\Debug\Computer_magazine.exe
+E:\Desktop\Computer_magazine\bin\Debug\Computer_magazine.pdb
+E:\Desktop\Computer_magazine\obj\Debug\Computer_magazine.csproj.AssemblyReference.cache
+E:\Desktop\Computer_magazine\obj\Debug\Computer_magazine.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\Computer_magazine\obj\Debug\Computer_magazine.ChekEditForm.resources
+E:\Desktop\Computer_magazine\obj\Debug\Computer_magazine.ChekInfoChekEditForm.resources
+E:\Desktop\Computer_magazine\obj\Debug\Computer_magazine.ComputerEditForm.resources
+E:\Desktop\Computer_magazine\obj\Debug\Computer_magazine.ConsignmentEditForm.resources
+E:\Desktop\Computer_magazine\obj\Debug\Computer_magazine.Form1.resources
+E:\Desktop\Computer_magazine\obj\Debug\Computer_magazine.ManEditForm.resources
+E:\Desktop\Computer_magazine\obj\Debug\Computer_magazine.MonitorEditForm.resources
+E:\Desktop\Computer_magazine\obj\Debug\Computer_magazine.PaymentEditForm.resources
+E:\Desktop\Computer_magazine\obj\Debug\Computer_magazine.PhoneEditForm.resources
+E:\Desktop\Computer_magazine\obj\Debug\Computer_magazine.PrinterEditForm.resources
+E:\Desktop\Computer_magazine\obj\Debug\Computer_magazine.ProductEditForm.resources
+E:\Desktop\Computer_magazine\obj\Debug\Computer_magazine.ProductTypeEditForm.resources
+E:\Desktop\Computer_magazine\obj\Debug\Computer_magazine.Properties.Resources.resources
+E:\Desktop\Computer_magazine\obj\Debug\Computer_magazine.StyleForm.resources
+E:\Desktop\Computer_magazine\obj\Debug\Computer_magazine.SupEditForm.resources
+E:\Desktop\Computer_magazine\obj\Debug\Computer_magazine.csproj.GenerateResource.cache
+E:\Desktop\Computer_magazine\obj\Debug\Computer_magazine.csproj.CoreCompileInputs.cache
+E:\Desktop\Computer_magazine\obj\Debug\Computer_magazine.exe
+E:\Desktop\Computer_magazine\obj\Debug\Computer_magazine.pdb
+E:\Desktop\Computer_magazine\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Desktop\Computer_magazine\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Desktop\Computer_magazine\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Desktop\Computer_magazine\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Desktop\Computer_magazine\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Desktop\Computer_magazine\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Desktop\Computer_magazine\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Desktop\Computer_magazine\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Desktop\Computer_magazine\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Desktop\Computer_magazine\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Desktop\Computer_magazine\bin\Debug\EnvDTE.dll
+E:\Desktop\Computer_magazine\bin\Debug\stdole.dll
+E:\Desktop\Computer_magazine\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desktop\Computer_magazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desktop\Computer_magazine\obj\Debug\Computer_magazine.csproj.CopyComplete
+E:\Desktop\Computer_magazine\obj\Debug\Computer_magazine.ConsignmentReportForm.resources
+E:\Desktop\Computer_magazine\obj\Debug\Computer_magazine.CheckReportForm.resources
+E:\Desktop\Computer_magazine\obj\Debug\Computer_magazine.ProductReportForm.resources
+E:\Desktop\Computer_magazine\obj\Debug\Computer_magazine.ProductDiagramReportForm.resources
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\Computer_magazine.exe.config
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\Computer_magazine.exe
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\Computer_magazine.pdb
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Computer_magazine\obj\Debug\Computer_magazine.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Computer_magazine\obj\Debug\Computer_magazine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Computer_magazine\obj\Debug\Computer_magazine.CheckReportForm.resources
+C:\Users\Admin\Desktop\Computer_magazine\obj\Debug\Computer_magazine.ChekEditForm.resources
+C:\Users\Admin\Desktop\Computer_magazine\obj\Debug\Computer_magazine.ChekInfoChekEditForm.resources
+C:\Users\Admin\Desktop\Computer_magazine\obj\Debug\Computer_magazine.ComputerEditForm.resources
+C:\Users\Admin\Desktop\Computer_magazine\obj\Debug\Computer_magazine.ConsignmentEditForm.resources
+C:\Users\Admin\Desktop\Computer_magazine\obj\Debug\Computer_magazine.ConsignmentReportForm.resources
+C:\Users\Admin\Desktop\Computer_magazine\obj\Debug\Computer_magazine.Form1.resources
+C:\Users\Admin\Desktop\Computer_magazine\obj\Debug\Computer_magazine.ManEditForm.resources
+C:\Users\Admin\Desktop\Computer_magazine\obj\Debug\Computer_magazine.MonitorEditForm.resources
+C:\Users\Admin\Desktop\Computer_magazine\obj\Debug\Computer_magazine.PaymentEditForm.resources
+C:\Users\Admin\Desktop\Computer_magazine\obj\Debug\Computer_magazine.PhoneEditForm.resources
+C:\Users\Admin\Desktop\Computer_magazine\obj\Debug\Computer_magazine.PrinterEditForm.resources
+C:\Users\Admin\Desktop\Computer_magazine\obj\Debug\Computer_magazine.ProductDiagramReportForm.resources
+C:\Users\Admin\Desktop\Computer_magazine\obj\Debug\Computer_magazine.ProductEditForm.resources
+C:\Users\Admin\Desktop\Computer_magazine\obj\Debug\Computer_magazine.ProductReportForm.resources
+C:\Users\Admin\Desktop\Computer_magazine\obj\Debug\Computer_magazine.ProductTypeEditForm.resources
+C:\Users\Admin\Desktop\Computer_magazine\obj\Debug\Computer_magazine.Properties.Resources.resources
+C:\Users\Admin\Desktop\Computer_magazine\obj\Debug\Computer_magazine.StyleForm.resources
+C:\Users\Admin\Desktop\Computer_magazine\obj\Debug\Computer_magazine.SupEditForm.resources
+C:\Users\Admin\Desktop\Computer_magazine\obj\Debug\Computer_magazine.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Computer_magazine\obj\Debug\Computer_magazine.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Computer_magazine\obj\Debug\Computer_magazine.csproj.CopyComplete
+C:\Users\Admin\Desktop\Computer_magazine\obj\Debug\Computer_magazine.exe
+C:\Users\Admin\Desktop\Computer_magazine\obj\Debug\Computer_magazine.pdb
+D:\Student\Computer_magazine\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Student\Computer_magazine\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Student\Computer_magazine\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Student\Computer_magazine\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Student\Computer_magazine\bin\Debug\Computer_magazine.exe.config
+D:\Student\Computer_magazine\bin\Debug\Computer_magazine.exe
+D:\Student\Computer_magazine\bin\Debug\Computer_magazine.pdb
+D:\Student\Computer_magazine\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Student\Computer_magazine\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Student\Computer_magazine\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Student\Computer_magazine\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Student\Computer_magazine\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Student\Computer_magazine\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Student\Computer_magazine\bin\Debug\EnvDTE.dll
+D:\Student\Computer_magazine\bin\Debug\stdole.dll
+D:\Student\Computer_magazine\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Student\Computer_magazine\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Student\Computer_magazine\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Student\Computer_magazine\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Student\Computer_magazine\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Student\Computer_magazine\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Student\Computer_magazine\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Student\Computer_magazine\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Student\Computer_magazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Student\Computer_magazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Student\Computer_magazine\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Student\Computer_magazine\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Student\Computer_magazine\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Student\Computer_magazine\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Student\Computer_magazine\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Student\Computer_magazine\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Student\Computer_magazine\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Student\Computer_magazine\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Student\Computer_magazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Student\Computer_magazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Student\Computer_magazine\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Student\Computer_magazine\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Student\Computer_magazine\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Student\Computer_magazine\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Student\Computer_magazine\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Student\Computer_magazine\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Student\Computer_magazine\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Student\Computer_magazine\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Student\Computer_magazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Student\Computer_magazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Student\Computer_magazine\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Student\Computer_magazine\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Student\Computer_magazine\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Student\Computer_magazine\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Student\Computer_magazine\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Student\Computer_magazine\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Student\Computer_magazine\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Student\Computer_magazine\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Student\Computer_magazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Student\Computer_magazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Student\Computer_magazine\obj\Debug\Computer_magazine.csproj.AssemblyReference.cache
+D:\Student\Computer_magazine\obj\Debug\Computer_magazine.csproj.SuggestedBindingRedirects.cache
+D:\Student\Computer_magazine\obj\Debug\Computer_magazine.CheckReportForm.resources
+D:\Student\Computer_magazine\obj\Debug\Computer_magazine.ChekEditForm.resources
+D:\Student\Computer_magazine\obj\Debug\Computer_magazine.ChekInfoChekEditForm.resources
+D:\Student\Computer_magazine\obj\Debug\Computer_magazine.ComputerEditForm.resources
+D:\Student\Computer_magazine\obj\Debug\Computer_magazine.ConsignmentEditForm.resources
+D:\Student\Computer_magazine\obj\Debug\Computer_magazine.ConsignmentReportForm.resources
+D:\Student\Computer_magazine\obj\Debug\Computer_magazine.Form1.resources
+D:\Student\Computer_magazine\obj\Debug\Computer_magazine.ManEditForm.resources
+D:\Student\Computer_magazine\obj\Debug\Computer_magazine.MonitorEditForm.resources
+D:\Student\Computer_magazine\obj\Debug\Computer_magazine.PaymentEditForm.resources
+D:\Student\Computer_magazine\obj\Debug\Computer_magazine.PhoneEditForm.resources
+D:\Student\Computer_magazine\obj\Debug\Computer_magazine.PrinterEditForm.resources
+D:\Student\Computer_magazine\obj\Debug\Computer_magazine.ProductDiagramReportForm.resources
+D:\Student\Computer_magazine\obj\Debug\Computer_magazine.ProductEditForm.resources
+D:\Student\Computer_magazine\obj\Debug\Computer_magazine.ProductReportForm.resources
+D:\Student\Computer_magazine\obj\Debug\Computer_magazine.ProductTypeEditForm.resources
+D:\Student\Computer_magazine\obj\Debug\Computer_magazine.Properties.Resources.resources
+D:\Student\Computer_magazine\obj\Debug\Computer_magazine.StyleForm.resources
+D:\Student\Computer_magazine\obj\Debug\Computer_magazine.SupEditForm.resources
+D:\Student\Computer_magazine\obj\Debug\Computer_magazine.csproj.GenerateResource.cache
+D:\Student\Computer_magazine\obj\Debug\Computer_magazine.csproj.CoreCompileInputs.cache
+D:\Student\Computer_magazine\obj\Debug\Computer_magazine.csproj.CopyComplete
+D:\Student\Computer_magazine\obj\Debug\Computer_magazine.exe
+D:\Student\Computer_magazine\obj\Debug\Computer_magazine.pdb
+D:\Student\Computer_magazine\obj\Debug\Computer_magazine.PasportDataEditForm.resources
+D:\Prectica III\ComputerMagazine\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\Computer_magazine.exe.config
+D:\Prectica III\ComputerMagazine\bin\Debug\Computer_magazine.exe
+D:\Prectica III\ComputerMagazine\bin\Debug\Computer_magazine.pdb
+D:\Prectica III\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\EnvDTE.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\stdole.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Prectica III\ComputerMagazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.csproj.AssemblyReference.cache
+D:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.csproj.SuggestedBindingRedirects.cache
+D:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.CheckReportForm.resources
+D:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ChekEditForm.resources
+D:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ChekInfoChekEditForm.resources
+D:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ComputerEditForm.resources
+D:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ConsignmentEditForm.resources
+D:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ConsignmentReportForm.resources
+D:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.Form1.resources
+D:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ManEditForm.resources
+D:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.MonitorEditForm.resources
+D:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.PasportDataEditForm.resources
+D:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.PaymentEditForm.resources
+D:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.PhoneEditForm.resources
+D:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.PrinterEditForm.resources
+D:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ProductDiagramReportForm.resources
+D:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ProductEditForm.resources
+D:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ProductReportForm.resources
+D:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ProductTypeEditForm.resources
+D:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.Properties.Resources.resources
+D:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.RegistrationForm.resources
+D:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.StyleForm.resources
+D:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.SupEditForm.resources
+D:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.csproj.GenerateResource.cache
+D:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.csproj.CoreCompileInputs.cache
+D:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.csproj.CopyComplete
+D:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.exe
+D:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.pdb
+H:\Prectica III\ComputerMagazine\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\Computer_magazine.exe.config
+H:\Prectica III\ComputerMagazine\bin\Debug\Computer_magazine.exe
+H:\Prectica III\ComputerMagazine\bin\Debug\Computer_magazine.pdb
+H:\Prectica III\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.Common.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.Design.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\Microsoft.SqlServer.Types.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\EnvDTE.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\stdole.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Prectica III\ComputerMagazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.csproj.AssemblyReference.cache
+H:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.csproj.SuggestedBindingRedirects.cache
+H:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.CheckReportForm.resources
+H:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ChekEditForm.resources
+H:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ChekInfoChekEditForm.resources
+H:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ComputerEditForm.resources
+H:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ConsignmentEditForm.resources
+H:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ConsignmentReportForm.resources
+H:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.Form1.resources
+H:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ManEditForm.resources
+H:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.MonitorEditForm.resources
+H:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.PasportDataEditForm.resources
+H:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.PaymentEditForm.resources
+H:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.PhoneEditForm.resources
+H:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.PrinterEditForm.resources
+H:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ProductDiagramReportForm.resources
+H:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ProductEditForm.resources
+H:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ProductReportForm.resources
+H:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ProductTypeEditForm.resources
+H:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.Properties.Resources.resources
+H:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.RegistrationForm.resources
+H:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.StyleForm.resources
+H:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.SupEditForm.resources
+H:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.csproj.GenerateResource.cache
+H:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.csproj.CoreCompileInputs.cache
+H:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.csproj.CopyComplete
+H:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.exe
+H:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.pdb
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.csproj.AssemblyReference.cache
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.CheckReportForm.resources
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ChekEditForm.resources
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ChekInfoChekEditForm.resources
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ComputerEditForm.resources
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ConsignmentEditForm.resources
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ConsignmentReportForm.resources
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.Form1.resources
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ManEditForm.resources
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.MonitorEditForm.resources
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.PasportDataEditForm.resources
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.PaymentEditForm.resources
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.PhoneEditForm.resources
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.PrinterEditForm.resources
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ProductDiagramReportForm.resources
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ProductEditForm.resources
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ProductReportForm.resources
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ProductTypeEditForm.resources
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.Properties.Resources.resources
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.RegistrationForm.resources
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.StyleForm.resources
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.SupEditForm.resources
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.csproj.GenerateResource.cache
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.csproj.CoreCompileInputs.cache
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.exe
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.pdb
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\Computer_magazine.exe.config
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\Computer_magazine.exe
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\Computer_magazine.pdb
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\EnvDTE.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\stdole.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.csproj.CopyComplete
+E:\Prectica III\ComputerMagazine\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\Computer_magazine.exe.config
+E:\Prectica III\ComputerMagazine\bin\Debug\Computer_magazine.exe
+E:\Prectica III\ComputerMagazine\bin\Debug\Computer_magazine.pdb
+E:\Prectica III\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\EnvDTE.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\stdole.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prectica III\ComputerMagazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.csproj.AssemblyReference.cache
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.csproj.SuggestedBindingRedirects.cache
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.CheckReportForm.resources
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ChekEditForm.resources
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ChekInfoChekEditForm.resources
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ComputerEditForm.resources
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ConsignmentEditForm.resources
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ConsignmentReportForm.resources
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.Form1.resources
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ManEditForm.resources
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.MonitorEditForm.resources
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.PasportDataEditForm.resources
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.PaymentEditForm.resources
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.PhoneEditForm.resources
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.PrinterEditForm.resources
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ProductDiagramReportForm.resources
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ProductEditForm.resources
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ProductReportForm.resources
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ProductTypeEditForm.resources
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.Properties.Resources.resources
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.RegistrationForm.resources
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.StyleForm.resources
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.SupEditForm.resources
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.csproj.GenerateResource.cache
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.csproj.CoreCompileInputs.cache
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.csproj.CopyComplete
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.exe
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.pdb
+E:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.RolesEditForm.resources
+G:\Prectica III\ComputerMagazine\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\Computer_magazine.exe.config
+G:\Prectica III\ComputerMagazine\bin\Debug\Computer_magazine.exe
+G:\Prectica III\ComputerMagazine\bin\Debug\Computer_magazine.pdb
+G:\Prectica III\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\EnvDTE.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\stdole.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.csproj.AssemblyReference.cache
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.csproj.SuggestedBindingRedirects.cache
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.CheckReportForm.resources
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ChekEditForm.resources
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ChekInfoChekEditForm.resources
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ComputerEditForm.resources
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ConsignmentEditForm.resources
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ConsignmentReportForm.resources
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.Form1.resources
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ManEditForm.resources
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.MonitorEditForm.resources
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.PasportDataEditForm.resources
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.PaymentEditForm.resources
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.PhoneEditForm.resources
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.PrinterEditForm.resources
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ProductDiagramReportForm.resources
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ProductEditForm.resources
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ProductReportForm.resources
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.ProductTypeEditForm.resources
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.Properties.Resources.resources
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.RegistrationForm.resources
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.RolesEditForm.resources
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.StyleForm.resources
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.SupEditForm.resources
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.csproj.GenerateResource.cache
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.csproj.CoreCompileInputs.cache
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.csproj.CopyComplete
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.exe
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.pdb
+G:\Prectica III\ComputerMagazine\bin\Debug\BouncyCastle.Cryptography.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\MimeKit.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\System.Buffers.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\System.Memory.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\System.Numerics.Vectors.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Prectica III\ComputerMagazine\bin\Debug\BouncyCastle.Cryptography.xml
+G:\Prectica III\ComputerMagazine\bin\Debug\MimeKit.pdb
+G:\Prectica III\ComputerMagazine\bin\Debug\MimeKit.xml
+G:\Prectica III\ComputerMagazine\bin\Debug\MimeKit.dll.config
+G:\Prectica III\ComputerMagazine\bin\Debug\System.Buffers.xml
+G:\Prectica III\ComputerMagazine\bin\Debug\System.Memory.xml
+G:\Prectica III\ComputerMagazine\bin\Debug\System.Numerics.Vectors.xml
+G:\Prectica III\ComputerMagazine\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Prectica III\ComputerMagazine\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.PasswordRestoreFrorm.resources
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\MimeKit.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\System.Buffers.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\System.Memory.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\System.Numerics.Vectors.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\MimeKit.pdb
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\MimeKit.xml
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\MimeKit.dll.config
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\System.Buffers.xml
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\System.Memory.xml
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\System.Numerics.Vectors.xml
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Desktop\Prectica III\ComputerMagazine\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.PasswordRestoreFrorm.resources
+E:\Desktop\Prectica III\ComputerMagazine\obj\Debug\Computer_magazine.RolesEditForm.resources
+E:\Practica III v3\ComputerMagazine\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\Computer_magazine.exe.config
+E:\Practica III v3\ComputerMagazine\bin\Debug\Computer_magazine.exe
+E:\Practica III v3\ComputerMagazine\bin\Debug\Computer_magazine.pdb
+E:\Practica III v3\ComputerMagazine\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\MimeKit.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\System.Buffers.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\System.Memory.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\System.Numerics.Vectors.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\EnvDTE.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\stdole.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Practica III v3\ComputerMagazine\bin\Debug\MimeKit.pdb
+E:\Practica III v3\ComputerMagazine\bin\Debug\MimeKit.xml
+E:\Practica III v3\ComputerMagazine\bin\Debug\MimeKit.dll.config
+E:\Practica III v3\ComputerMagazine\bin\Debug\System.Buffers.xml
+E:\Practica III v3\ComputerMagazine\bin\Debug\System.Memory.xml
+E:\Practica III v3\ComputerMagazine\bin\Debug\System.Numerics.Vectors.xml
+E:\Practica III v3\ComputerMagazine\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Practica III v3\ComputerMagazine\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Practica III v3\ComputerMagazine\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Practica III v3\ComputerMagazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.csproj.AssemblyReference.cache
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.csproj.SuggestedBindingRedirects.cache
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.CheckReportForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.ChekEditForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.ChekInfoChekEditForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.ComputerEditForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.ConsignmentEditForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.ConsignmentReportForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.Form1.resources
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.ManEditForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.MonitorEditForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.PasportDataEditForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.PasswordRestoreFrorm.resources
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.PaymentEditForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.PhoneEditForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.PrinterEditForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.ProductDiagramReportForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.ProductEditForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.ProductReportForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.ProductTypeEditForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.Properties.Resources.resources
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.RegistrationForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.RolesEditForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.StyleForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.SupEditForm.resources
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.csproj.GenerateResource.cache
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.csproj.CoreCompileInputs.cache
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.csproj.CopyComplete
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.exe
+E:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.pdb
+H:\Practica III v3\ComputerMagazine\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\Computer_magazine.exe.config
+H:\Practica III v3\ComputerMagazine\bin\Debug\Computer_magazine.exe
+H:\Practica III v3\ComputerMagazine\bin\Debug\Computer_magazine.pdb
+H:\Practica III v3\ComputerMagazine\bin\Debug\BouncyCastle.Cryptography.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.Common.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.Design.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\Microsoft.SqlServer.Types.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\MimeKit.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\System.Buffers.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\System.Memory.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\System.Numerics.Vectors.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\EnvDTE.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\stdole.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\BouncyCastle.Cryptography.xml
+H:\Practica III v3\ComputerMagazine\bin\Debug\MimeKit.pdb
+H:\Practica III v3\ComputerMagazine\bin\Debug\MimeKit.xml
+H:\Practica III v3\ComputerMagazine\bin\Debug\MimeKit.dll.config
+H:\Practica III v3\ComputerMagazine\bin\Debug\System.Buffers.xml
+H:\Practica III v3\ComputerMagazine\bin\Debug\System.Memory.xml
+H:\Practica III v3\ComputerMagazine\bin\Debug\System.Numerics.Vectors.xml
+H:\Practica III v3\ComputerMagazine\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\Practica III v3\ComputerMagazine\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\Practica III v3\ComputerMagazine\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Practica III v3\ComputerMagazine\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.csproj.AssemblyReference.cache
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.csproj.SuggestedBindingRedirects.cache
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.CheckReportForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.ChekEditForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.ChekInfoChekEditForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.ComputerEditForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.ConsignmentEditForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.ConsignmentReportForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.Form1.resources
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.ManEditForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.MonitorEditForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.PasportDataEditForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.PasswordRestoreFrorm.resources
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.PaymentEditForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.PhoneEditForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.PrinterEditForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.ProductDiagramReportForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.ProductEditForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.ProductReportForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.ProductTypeEditForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.Properties.Resources.resources
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.RegistrationForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.RolesEditForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.StyleForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.SupEditForm.resources
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.csproj.GenerateResource.cache
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.csproj.CoreCompileInputs.cache
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.csproj.CopyComplete
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.exe
+H:\Practica III v3\ComputerMagazine\obj\Debug\Computer_magazine.pdb

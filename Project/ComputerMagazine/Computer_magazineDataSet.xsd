@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Computer_magazineDataSet" targetNamespace="http://tempuri.org/Computer_magazineDataSet.xsd" xmlns:mstns="http://tempuri.org/Computer_magazineDataSet.xsd" xmlns="http://tempuri.org/Computer_magazineDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="1" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Computer_magazineConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Computer_magazineConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Computer_magazine.Properties.Settings.GlobalReference.Default.Computer_magazineConnectionString" Provider="System.Data.SqlClient" />
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Computer_magazineConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Computer_magazineConnectionString1 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Computer_magazine.Properties.Settings.GlobalReference.Default.Computer_magazineConnectionString1" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="consignment_viewTableAdapter" GeneratorDataComponentClassName="consignment_viewTableAdapter" Name="consignment_view" UserDataComponentName="consignment_viewTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Computer_magazineConnectionString1 (Settings)" DbObjectName="Computer_magazine.dbo.consignment_view" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        consignment_view.*
+FROM            consignment_view</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Sup_name" DataSetColumn="Sup_name" />
+              <Mapping SourceColumn="Prod_name" DataSetColumn="Prod_name" />
+              <Mapping SourceColumn="prod_number" DataSetColumn="prod_number" />
+              <Mapping SourceColumn="Man_name" DataSetColumn="Man_name" />
+              <Mapping SourceColumn="consignment_number" DataSetColumn="consignment_number" />
+              <Mapping SourceColumn="Consignment_date" DataSetColumn="Consignment_date" />
+              <Mapping SourceColumn="Price" DataSetColumn="Price" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Product_viewTableAdapter" GeneratorDataComponentClassName="Product_viewTableAdapter" Name="Product_view" UserDataComponentName="Product_viewTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Computer_magazineConnectionString1 (Settings)" DbObjectName="Computer_magazine.dbo.Product_view" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        Product_view.*
+FROM            Product_view</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Product_type" DataSetColumn="Product_type" />
+              <Mapping SourceColumn="Man_name" DataSetColumn="Man_name" />
+              <Mapping SourceColumn="Prod_name" DataSetColumn="Prod_name" />
+              <Mapping SourceColumn="Price" DataSetColumn="Price" />
+              <Mapping SourceColumn="Waranty" DataSetColumn="Waranty" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Chek_viewTableAdapter" GeneratorDataComponentClassName="Chek_viewTableAdapter" Name="Chek_view" UserDataComponentName="Chek_viewTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Computer_magazineConnectionString1 (Settings)" DbObjectName="Computer_magazine.dbo.Chek_view" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        Chek_view.*
+FROM            Chek_view</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Check_code" DataSetColumn="Check_code" />
+              <Mapping SourceColumn="IDNP" DataSetColumn="IDNP" />
+              <Mapping SourceColumn="Pay_type" DataSetColumn="Pay_type" />
+              <Mapping SourceColumn="Prod_name" DataSetColumn="Prod_name" />
+              <Mapping SourceColumn="Purc_date" DataSetColumn="Purc_date" />
+              <Mapping SourceColumn="Gen_price" DataSetColumn="Gen_price" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Computer_magazineDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="Computer_magazineDataSet" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="Computer_magazineDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="consignment_view" msprop:Generator_RowClassName="consignment_viewRow" msprop:Generator_RowEvHandlerName="consignment_viewRowChangeEventHandler" msprop:Generator_RowDeletedName="consignment_viewRowDeleted" msprop:Generator_RowDeletingName="consignment_viewRowDeleting" msprop:Generator_RowEvArgName="consignment_viewRowChangeEvent" msprop:Generator_TablePropName="consignment_view" msprop:Generator_RowChangedName="consignment_viewRowChanged" msprop:Generator_UserTableName="consignment_view" msprop:Generator_RowChangingName="consignment_viewRowChanging" msprop:Generator_TableClassName="consignment_viewDataTable" msprop:Generator_TableVarName="tableconsignment_view">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Sup_name" msprop:Generator_UserColumnName="Sup_name" msprop:Generator_ColumnPropNameInTable="Sup_nameColumn" msprop:Generator_ColumnPropNameInRow="Sup_name" msprop:Generator_ColumnVarNameInTable="columnSup_name" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Prod_name" msprop:Generator_UserColumnName="Prod_name" msprop:Generator_ColumnPropNameInTable="Prod_nameColumn" msprop:Generator_ColumnPropNameInRow="Prod_name" msprop:Generator_ColumnVarNameInTable="columnProd_name" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="prod_number" msprop:Generator_UserColumnName="prod_number" msprop:Generator_ColumnPropNameInTable="prod_numberColumn" msprop:Generator_ColumnPropNameInRow="prod_number" msprop:Generator_ColumnVarNameInTable="columnprod_number" type="xs:short" minOccurs="0" />
+              <xs:element name="Man_name" msprop:Generator_UserColumnName="Man_name" msprop:Generator_ColumnPropNameInTable="Man_nameColumn" msprop:Generator_ColumnPropNameInRow="Man_name" msprop:Generator_ColumnVarNameInTable="columnMan_name" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="consignment_number" msprop:Generator_UserColumnName="consignment_number" msprop:Generator_ColumnPropNameInTable="consignment_numberColumn" msprop:Generator_ColumnPropNameInRow="consignment_number" msprop:Generator_ColumnVarNameInTable="columnconsignment_number" type="xs:int" minOccurs="0" />
+              <xs:element name="Consignment_date" msprop:Generator_UserColumnName="Consignment_date" msprop:Generator_ColumnPropNameInTable="Consignment_dateColumn" msprop:Generator_ColumnPropNameInRow="Consignment_date" msprop:Generator_ColumnVarNameInTable="columnConsignment_date" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Price" msprop:Generator_UserColumnName="Price" msprop:Generator_ColumnPropNameInTable="PriceColumn" msprop:Generator_ColumnPropNameInRow="Price" msprop:Generator_ColumnVarNameInTable="columnPrice" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Product_view" msprop:Generator_RowClassName="Product_viewRow" msprop:Generator_RowEvHandlerName="Product_viewRowChangeEventHandler" msprop:Generator_RowDeletedName="Product_viewRowDeleted" msprop:Generator_RowDeletingName="Product_viewRowDeleting" msprop:Generator_RowEvArgName="Product_viewRowChangeEvent" msprop:Generator_TablePropName="Product_view" msprop:Generator_RowChangedName="Product_viewRowChanged" msprop:Generator_UserTableName="Product_view" msprop:Generator_RowChangingName="Product_viewRowChanging" msprop:Generator_TableClassName="Product_viewDataTable" msprop:Generator_TableVarName="tableProduct_view">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Product_type" msprop:Generator_UserColumnName="Product_type" msprop:Generator_ColumnPropNameInTable="Product_typeColumn" msprop:Generator_ColumnPropNameInRow="Product_type" msprop:Generator_ColumnVarNameInTable="columnProduct_type" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Man_name" msprop:Generator_UserColumnName="Man_name" msprop:Generator_ColumnPropNameInTable="Man_nameColumn" msprop:Generator_ColumnPropNameInRow="Man_name" msprop:Generator_ColumnVarNameInTable="columnMan_name" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Prod_name" msprop:Generator_UserColumnName="Prod_name" msprop:Generator_ColumnPropNameInTable="Prod_nameColumn" msprop:Generator_ColumnPropNameInRow="Prod_name" msprop:Generator_ColumnVarNameInTable="columnProd_name" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Price" msprop:Generator_UserColumnName="Price" msprop:Generator_ColumnPropNameInTable="PriceColumn" msprop:Generator_ColumnPropNameInRow="Price" msprop:Generator_ColumnVarNameInTable="columnPrice" type="xs:short" minOccurs="0" />
+              <xs:element name="Waranty" msprop:Generator_UserColumnName="Waranty" msprop:Generator_ColumnPropNameInTable="WarantyColumn" msprop:Generator_ColumnPropNameInRow="Waranty" msprop:Generator_ColumnVarNameInTable="columnWaranty" type="xs:short" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Chek_view" msprop:Generator_RowEvHandlerName="Chek_viewRowChangeEventHandler" msprop:Generator_RowDeletedName="Chek_viewRowDeleted" msprop:Generator_RowDeletingName="Chek_viewRowDeleting" msprop:Generator_RowEvArgName="Chek_viewRowChangeEvent" msprop:Generator_TablePropName="Chek_view" msprop:Generator_RowChangedName="Chek_viewRowChanged" msprop:Generator_RowChangingName="Chek_viewRowChanging" msprop:Generator_TableClassName="Chek_viewDataTable" msprop:Generator_RowClassName="Chek_viewRow" msprop:Generator_TableVarName="tableChek_view" msprop:Generator_UserTableName="Chek_view">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Check_code" msprop:Generator_ColumnPropNameInRow="Check_code" msprop:Generator_ColumnPropNameInTable="Check_codeColumn" msprop:Generator_ColumnVarNameInTable="columnCheck_code" msprop:Generator_UserColumnName="Check_code" type="xs:int" />
+              <xs:element name="IDNP" msprop:Generator_ColumnPropNameInRow="IDNP" msprop:Generator_ColumnPropNameInTable="IDNPColumn" msprop:Generator_ColumnVarNameInTable="columnIDNP" msprop:Generator_UserColumnName="IDNP">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="13" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Pay_type" msprop:Generator_ColumnPropNameInRow="Pay_type" msprop:Generator_ColumnPropNameInTable="Pay_typeColumn" msprop:Generator_ColumnVarNameInTable="columnPay_type" msprop:Generator_UserColumnName="Pay_type" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Prod_name" msprop:Generator_ColumnPropNameInRow="Prod_name" msprop:Generator_ColumnPropNameInTable="Prod_nameColumn" msprop:Generator_ColumnVarNameInTable="columnProd_name" msprop:Generator_UserColumnName="Prod_name" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Purc_date" msprop:Generator_ColumnPropNameInRow="Purc_date" msprop:Generator_ColumnPropNameInTable="Purc_dateColumn" msprop:Generator_ColumnVarNameInTable="columnPurc_date" msprop:Generator_UserColumnName="Purc_date" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Gen_price" msprop:Generator_ColumnPropNameInRow="Gen_price" msprop:Generator_ColumnPropNameInTable="Gen_priceColumn" msprop:Generator_ColumnVarNameInTable="columnGen_price" msprop:Generator_UserColumnName="Gen_price" type="xs:short" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

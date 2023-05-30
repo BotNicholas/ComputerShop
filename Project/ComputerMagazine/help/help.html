@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Computer shop help</title>
+    <link rel="icon" type="images/png" href="../resources/question-mark.png">
+
+    <style>
+        body{
+            background-image: url("https://img.freepik.com/free-photo/solid-navy-blue-concrete-textured-wall_53876-124584.jpg");
+            background-size: cover;
+            background-repeat: repeat-y;
+            background-attachment: fixed;
+        }
+
+        .contaner{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .main{
+            background-color: azure;
+            border-radius: 20px;
+            width: 98%;
+            margin:70px auto;
+            padding: 10px;
+        }
+
+        .title{
+            text-align: center;
+        }
+
+        .subtitle{
+            font-style: italic;
+            text-decoration: underline;
+        }
+
+        p{
+            text-indent: 20px;
+        }
+
+        #up{
+            position: fixed;
+            left: 95%;
+            top: 93%;
+        }
+        .samples img{
+            margin-left: 50px;
+        }
+
+        .links a{
+            text-decoration: none;
+            font-weight: bold;
+            font-style: italic;
+        }
+
+        .links a::before{
+            content: "• ";
+        }
+
+        .links{
+            display: flex;
+            flex-direction: column;
+        }
+
+    </style>
+
+</head>
+<body>
+    <div class="container">
+        <div class="main">
+            <h2 class="title">Справка пользователя по использованию приложения для работы с базой данных</h2>
+            <h1 class="title">"Компьютерный магазин <i>Centurion</i>"</h1>
+
+            <hr width="98%">
+
+            <div class="links">
+                <a href="#for_what">Для чего эта программа</a>
+                <a href="#how_to">Как пользоваться</a>
+                <a href="#roles">Роли</a>
+                <a href="#troubles">Проблемы</a>
+                <a href="#feedback">FeedBack</a>
+            
+            </div>
+            
+            <hr width="98%">
+
+            <a id="up" href="#"><img src="https://cdn.pixabay.com/photo/2012/04/02/15/49/button-24807_1280.png" width="60%" alt="Up"></a>
+
+            <h2 id="for_what" class="subtitle">Для чего это программа</h2>
+            <p>
+                Эта программа была разработана для работы с базой данных "Компьютерный магазин Centurion". Она предназначена для управления данной базой данных, а сама база данных, в свою очередь предназначена для облегчения ведения учета продажи техники в компьютерном магазине.
+            </p>
+
+
+            <h2 id="how_to" class="subtitle">Как пользоваться</h2>
+            <p>
+                При помощи данного приложения вы можете просматривать содержимое БД, изменять и удалять информацию из неё. Есть возможность зайти в настройки и поменять тему приложения, следать отчеты а также распределить роли, сделать резервную копию БД и восстановить её из файла Бэкапа...
+                <div class="samples">
+                    <h3>Вход</h3>
+                        <img src="./images/1.png" alt="Вход">
+                    <h3>Регистрация</h3>
+                        <img src="./images/2.png" alt="Регистрация">
+                    <h3>Просмотр, редактирование и удаление</h3>
+                        <img src="./images/3.png" alt="Просмотр, редактирование и удаление">
+                    <h3>Настройки</h3>
+                        <img src="./images/4.png" alt="Настройки">
+                    <h3>Отчеты</h3>
+                        <img src="./images/5.png" alt="Отчеты">
+                    <h3>Администрирование</h3>
+                        <img src="./images/6.png" alt="Администрирование">
+                </div>
+            </p>
+            
+            <h2 id="roles" class="subtitle">Распределение ролей</h2>
+            <p>
+                Обратите внимание на то, что не все функции доступны обычному пользователю. Так, например обычный пользователь не может изменять или вносить значения в БД или назначать роли пользователям, это могут делать только пользователи, чьи роли БД позволяют это делать.
+            </p>
+            <p>
+                Предусмотрены следующие роли:
+                <ul>
+                    <li>Пользователь</li>
+                    <li>Продавец</li>
+                    <li>Мэнеджер</li>
+                    <li>Администратор</li>
+                </ul>
+
+                Для повышения вашей роли обратитесь к администратору...
+            </p>
+            
+            <h2 id="troubles" class="subtitle">Проблемы</h2>
+            <p>
+                В случае каких-либо неполадок, или ошибок, совершенных вами, обратитесь к вашему администратору. В противном случае, если ошибки более серьёзного характера, сообщите администратору, который в обязательном порядке свяжется с создателем БД, который сможет её решить. Вы также можето позвонить на горячую линию производителя, и мы постараемся вам помочь... <br>Также, если вы забыли пароль, вы можете его восстановить...
+            </p>
+            
+            <h2 id="feedback" class="subtitle">FeedBack</h2>
+            <p style="text-indent: 0px;">
+                <b>Разработчик:</b> MicroBot industries<sup>©</sup><br>
+                <b>Горячая линия: </b> +(373)69982418<br>
+                <b>Наша почта: </b> micro_bot@gmail.com<br>
+                <b>Адрес: </b> str. Stefan the Great 22/8<br>
+                <div style="text-align: center;"><sub><b>Спасибо за приобретение нашего ПО!</b></sub></div>
+            </p>
+            
+            
+        </div>
+    </div>
+</body>
+</html>
